@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2012\Projects\neuro\neuro\bin\Debug\neuro.exe.config
+C:\Users\1\documents\visual studio 2012\Projects\neuro\neuro\bin\Debug\neuro.exe
+C:\Users\1\documents\visual studio 2012\Projects\neuro\neuro\bin\Debug\neuro.pdb
+C:\Users\1\documents\visual studio 2012\Projects\neuro\neuro\obj\Debug\neuro.csprojResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2012\Projects\neuro\neuro\obj\Debug\neuro.Form1.resources
+C:\Users\1\documents\visual studio 2012\Projects\neuro\neuro\obj\Debug\neuro.Properties.Resources.resources
+C:\Users\1\documents\visual studio 2012\Projects\neuro\neuro\obj\Debug\neuro.csproj.GenerateResource.Cache
+C:\Users\1\documents\visual studio 2012\Projects\neuro\neuro\obj\Debug\neuro.exe
+C:\Users\1\documents\visual studio 2012\Projects\neuro\neuro\obj\Debug\neuro.pdb
